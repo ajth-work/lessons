@@ -1,4 +1,4 @@
-# Lesson
+# Lessons
 Files for my coursework for various websites as well as some personal tinkering based on new learnings.
 
 ## Coursework (just an outline of course programs being worked through)
